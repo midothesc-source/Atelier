@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Flat-Lay — Virtual Stylist",
+  "description": "Upload any difficult-to-match garment to analyze its color palette and silhouette, then generate and edit Casual, Business, and Night Out flat-lay outfit visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
